@@ -14,4 +14,7 @@ export class ListComponent {
     power: 10
   }]
 
+  onDeleteCharacter(): void {
+    //TODO: Emitir el id del personaje
+  }
 }
